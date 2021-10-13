@@ -1,5 +1,4 @@
 import streamlit as st
-import pymongo
 import pandas as pd
 
 st.sidebar.write("This lives in the sidebar")
